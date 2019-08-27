@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rate/static/media/index.4e88bcd1.less"
   },
   {
-    "revision": "18f5f23be568f5938dc4849c6b8b4a8a",
+    "revision": "216fcdc03875313c98b4e6eeb39c5edb",
     "url": "/rate/index.html"
   }
 ];
