@@ -1,17 +1,6 @@
 {
-  "main.css": "/rate/static/css/main.b142ab92.chunk.css",
-  "main.js": "/rate/static/js/main.e34056a5.chunk.js",
-  "main.js.map": "/rate/static/js/main.e34056a5.chunk.js.map",
-  "runtime~main.js": "/rate/static/js/runtime~main.2952b077.js",
-  "runtime~main.js.map": "/rate/static/js/runtime~main.2952b077.js.map",
-  "static/css/2.4e9e6b85.chunk.css": "/rate/static/css/2.4e9e6b85.chunk.css",
-  "static/js/2.4461bd65.chunk.js": "/rate/static/js/2.4461bd65.chunk.js",
-  "static/js/2.4461bd65.chunk.js.map": "/rate/static/js/2.4461bd65.chunk.js.map",
-  "index.html": "/rate/index.html",
-  "precache-manifest.af82806fcb639fe0ce21ad2046810a2a.js": "/rate/precache-manifest.af82806fcb639fe0ce21ad2046810a2a.js",
-  "service-worker.js": "/rate/service-worker.js",
-  "static/css/2.4e9e6b85.chunk.css.map": "/rate/static/css/2.4e9e6b85.chunk.css.map",
-  "static/css/main.b142ab92.chunk.css.map": "/rate/static/css/main.b142ab92.chunk.css.map",
-  "static/media/Table.less": "/rate/static/media/Table.515d2fa9.less",
-  "static/media/persik.png": "/rate/static/media/persik.4e1ec840.png"
+  "main.css": "static/css/main.337c1a16.css",
+  "main.css.map": "static/css/main.337c1a16.css.map",
+  "main.js": "static/js/main.82024f84.js",
+  "main.js.map": "static/js/main.82024f84.js.map"
 }
